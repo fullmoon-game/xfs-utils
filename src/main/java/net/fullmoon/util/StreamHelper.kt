@@ -1,9 +1,3 @@
-/*
- * Copyright (c) 2026 Pixelground Labs - All Rights Reserved.
- * Unauthorized copying or redistribution of this file in source and binary forms via any medium
- * is strictly prohibited.
- */
-
 package net.fullmoon.util
 
 import java.io.DataInputStream
