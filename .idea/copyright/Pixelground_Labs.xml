@@ -1,0 +1,6 @@
+<component name="CopyrightManager">
+  <copyright>
+    <option name="notice" value="Copyright (c) &amp;#36;originalComment.match(&quot;Copyright \(c\) (\d+)&quot;, 1, &quot;-&quot;, &quot;&amp;#36;today.year&quot;)&amp;#36;today.year Pixelground Labs - All Rights Reserved. &#10;Unauthorized copying or redistribution of this file in source and binary forms via any medium &#10;is strictly prohibited." />
+    <option name="myName" value="Pixelground Labs" />
+  </copyright>
+</component>
